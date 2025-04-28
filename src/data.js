@@ -1,0 +1,23 @@
+export const people = [
+    { id: 1, name: "John Doe", age: 25 },
+    { id: 2, name: "Jane Smith", age: 30 },
+    { id: 3, name: "Alice Johnson", age: 22 },
+    { id: 4, name: "Bob Brown", age: 28 },
+    { id: 5, name: "Charlie Davis", age: 35 },
+    { id: 6, name: "Eva Green", age: 27 },
+    { id: 7, name: "Frank Moore", age: 31 },
+    { id: 8, name: "Grace Lee", age: 24 },
+    { id: 9, name: "Harry White", age: 29 },
+    { id: 10, name: "Ivy Black", age: 26 },
+    { id: 11, name: "Jack Wilson", age: 32 },
+    { id: 12, name: "Karen Young", age: 21 },
+    { id: 13, name: "Leo Hall", age: 34 },
+    { id: 14, name: "Mia Allen", age: 23 },
+    { id: 15, name: "Nathan Scott", age: 36 },
+    { id: 16, name: "Olivia Adams", age: 28 },
+    { id: 17, name: "Paul Wright", age: 27 },
+    { id: 18, name: "Quinn Baker", age: 25 },
+    { id: 19, name: "Rachel Turner", age: 30 },
+    { id: 20, name: "Sam Carter", age: 29 },
+  ];
+  
