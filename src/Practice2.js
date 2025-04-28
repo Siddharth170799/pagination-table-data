@@ -12,6 +12,7 @@ const Practice2 = () => {
   const [nextButton, setNextButton] = useState(false);
 
   const handleChange = (e) => {
+
     setItemsPerPage(e.target.value);
     const data1 = people.slice(0, e.target.value);
     setData(data1);
@@ -102,6 +103,7 @@ const Practice2 = () => {
             value={itemsPerPage}
             onChange={handleChange}
           >
+          <option value={itemsPerPage}>{itemsPerPage}</option>
             <option value={3}>3</option>
             <option value={5}>5</option>
             <option value={10}>10</option>
